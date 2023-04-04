@@ -1,1 +1,3 @@
-# AWS_3_ApplicationDeploy
+## AWSフルコースの第3回課題  
+checklist.mdはAPサーバ/DBサーバ/構成管理ツールそれぞれの名称とVersionを確認した内容のまとめ。  
+summary.mdは第3回課題を通して学習した内容のまとめとなっています。  
